@@ -1,0 +1,55 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+
+}.content{
+	width: 700px;
+	margin: 60px auto;
+}
+
+.content table{
+	width: 100%;
+	background-color: #fff;
+	text-align: left;
+    border: 1px solid #aaa;
+	border-collapse: collapse;
+}
+.content table tr{
+	border-bottom: 1px solid #aaa;
+
+}
+
+.content table tr:nth-child(odd){
+	background-color: grey;
+
+}
+
+	
+
+
+.content table tr td{
+	padding: 10px;
+	border-right: 1px solid #aaa;
+}
+.content table tr:last-child td:last-child{
+	font-weight: bold;
+}
+.content table tr th{
+	padding: 10px;
+	background: #555;
+	color: #000;
+	border-right: 1px solid #aaa;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+body{
+	background-color: #ccc;
+	background-image: url(../images/flyingbirds.png),url(../images/ocean.jpg);background-size: 20%,cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.kaity{
+	background-color: rgba(0,0,0,0.5);
+	width: 600px;
+	padding: 30px;
+	margin: 0 auto;
+	color: #fff;
+	min-height: 500px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

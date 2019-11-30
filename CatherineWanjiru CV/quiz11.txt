@@ -1,0 +1,20 @@
+Grid view
+columns-used to put columns in text when its too long.
+Anchor links:
+	<h2 id="about>about</h2>
+	<a href= "#about"></a>
+When using frameworks there are no classes.
+<div class = "large-3 small-12"
+they give different sizes for different screen sizes.
+
+
+percentages in the web:
+	<div class = " "
+		width=" "
+		height=" "
+		color=" " 
+		<div class = ""
+			width="%"
+			height=""
+			color=" "
+			span="'
